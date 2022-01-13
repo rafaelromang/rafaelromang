@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rafaelromang
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning AWS and frontend frameworks
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at rafael.roman@clipdashboard.com
 
 <!---
